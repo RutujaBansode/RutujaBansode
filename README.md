@@ -1,28 +1,164 @@
-<h1 align="center">Hi 👋, I'm Rutuja Bansode</h1>
-<h3 align="center">A passionate Java Developer | Building my journey in Backend Development ☕</h3>
+<!--
+  GitHub Profile README
+  Username: RutujaBansode
+  Replace the LinkedIn URL with your actual profile URL before publishing.
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutujabansode" alt="rutujabansode" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [smart-cafe-hotel-management-system](https://github.com/RutujaBansode/smart-cafe-hotel-management-system)
+# こんにちは! 👋 I'm Rutuja Bansode
 
-- 🌱 I’m currently learning **Spring Boot,Spring AI**
+### ☕ Java Developer | Backend Development | Lifelong Learner
 
-- 💬 Ask me about **Core Java, OOP, JDBC, Servlets, JPA, Maven, and Spring Boot**
+Building backend applications with Java, exploring Spring Boot & Spring AI, and learning Japanese one word at a time 🇯🇵
 
-- 📫 How to reach me **rutujabansode1262@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I'm learning Japanese while turning coffee ☕ into Java code!**
+<a href="https://github.com/RutujaBansode">
+  <img src="https://img.shields.io/badge/GitHub-RutujaBansode-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+</a>
+<a href="mailto:rutujabansode1262@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/RutujaBansode?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rutuja bansode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja bansode" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=RutujaBansode&style=flat-square&color=blueviolet" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujabansode&show_icons=true&locale=en&layout=compact" alt="rutujabansode" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujabansode&show_icons=true&locale=en" alt="rutujabansode" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujabansode&" alt="rutujabansode" /></p>
+## 👩‍💻 About Me
+
+- 🔭 Currently working on **ArogyaLive**, a project I'm developing.
+- ☕ Focused on **Core Java, OOP, and Advanced Java**.
+- 🌱 Currently learning **Spring Boot, Spring AI, and Japanese**.
+- 🛠️ Exploring JDBC, Servlets, JPA, Maven, and backend application development.
+- 💬 Ask me about Java fundamentals, OOP concepts, JDBC, Servlets, and my learning journey with Spring.
+- 🤝 Interested in collaborating on Java and backend development projects.
+- 📫 Reach me at **[rutujabansode1262@gmail.com](mailto:rutujabansode1262@gmail.com)**.
+- ⚡ Fun fact: I'm learning Japanese while turning coffee ☕ into Java code!
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/></a>
+
+### Backend & Java Ecosystem
+
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring"/></a>
+<a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven" height="50" alt="Maven"/></a>
+<a href="https://hibernate.org/"><img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="Hibernate"/></a>
+
+### Database & Tools
+
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA"/></a>
+
+</div>
+
+**Also exploring:** JDBC · Servlets · JSP · JPA · REST APIs · Spring AI
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/RutujaBansode/smart-cafe-hotel-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RutujaBansode&repo=smart-cafe-hotel-management-system&theme=tokyonight&hide_border=true" alt="Smart Cafe Hotel Management System"/>
+</a>
+
+**Smart Cafe Hotel Management System**
+
+Explore my repository to learn more about this project, its implementation, and the technologies used.
+
+</div>
+
+> 💡 Currently developing ArogyaLive. I'll add its repository here once it's ready to share on GitHub.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RutujaBansode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutujaBansode&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRutujaBansode&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" alt="Public repository count"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RutujaBansode&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RutujaBansode&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RutujaBansode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub profile trophies"/>
+
+</div>
+
+---
+
+## 🌱 Beyond Coding
+
+<div align="center">
+
+🇯🇵 **日本語を勉強しています！**
+
+*Learning Japanese, exploring new technologies, and improving one day at a time.*
+
+**Code. Learn. Build. Repeat.** ☕ 💻
+
+<br/>
+
+<a href="https://github.com/RutujaBansode?tab=repositories">Explore my repositories →</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find my projects interesting, feel free to explore them and leave a star!
+
+**Thanks for visiting my profile! よろしくお願いします 🙌**
+
+</div>
